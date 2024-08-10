@@ -70,7 +70,7 @@ setup(
         "pyyaml",
         "protobuf~=3.20",
         # evm dependencies
-        "pysha3",
+        "safe-pysha3",
         "prettytable",
         "ply",
         "rlp",
